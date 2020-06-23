@@ -1,0 +1,6 @@
+{
+	"registry" : "https://<ajay.jayswal@gmail.com>:<AKCp5ekTCjbENpyX6KQC1M1LSnD4DfcfX1G6BFrVJoGqgz6WEzfZHdFTzDZHoninrsskS4Zha>@na.artifactory.swg-devops.com/artifactory/api/bower/wcp--dev---ent-arch-team-bower-remote",
+	"resolvers" : [
+		"bower-art-resolver"
+	]
+}
